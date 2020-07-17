@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/study2_main.unity
+    guid: ab41f88682ea3eb4c892c780ed7860cc
+  - enabled: 1
+    path: Assets/Scenes/study2_page2.unity
+    guid: bd565fa9e6bc450429270d7ed57103ab
+  - enabled: 1
+    path: Assets/Scenes/study2_page3.unity
+    guid: e32c6b60b60a9fe4784f7a5451fcffbc
+  - enabled: 1
+    path: Assets/Scenes/study1.unity
+    guid: 4c011e411e519e345889abc03cc7ce6b
+  - enabled: 1
+    path: Assets/Scenes/study2_restart.unity
+    guid: 7a8e6fc81bd69c94fa5a721ddc23c505
+  - enabled: 1
+    path: Assets/Scenes/study2_start.unity
+    guid: a042ff4686bee6e47979d01683b2a7e2
+  m_configObjects: {}

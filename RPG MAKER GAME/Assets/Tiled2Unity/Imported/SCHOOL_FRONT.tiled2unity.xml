@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 2019-06-29 오전 10:44:36-->
+<Tiled2Unity version="1.0.13.2">
+  <Prefab name="SCHOOL_FRONT" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="17" numTilesHigh="13" tileWidth="48" tileHeight="48" exportScale="1" mapWidthInPixels="816" mapHeightInPixels="624" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+  </Prefab>
+</Tiled2Unity>
